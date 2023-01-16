@@ -4,7 +4,7 @@ Welcome the Data and Dynamics Working Group at the University of Arizona, part o
 
 For the Spring 2023 semester, the seminar is co-organized by [Kevin Lin](https://www.math.arizona.edu/~klin/index.php), [Alexa Aucoin](https://appliedmath.arizona.edu/person/alexa-aucoin), [Robert Ferrando](https://appliedmath.arizona.edu/person/robert-ferrando), and [Adrienne Kinney](https://appliedmath.arizona.edu/person/adrienne-kinney).
 
-Meetings will be held on Wednesdays from 1:00-2:00 pm, in room **TBD** and over Zoom at **TBD**. We will also host a Slack channel for offline discussion. To be added to our email list or Slack channel, please email one of the organizers.
+Meetings will be held on Wednesdays from 1:00-2:00 pm, in room **MATH 501** and over Zoom at [the RTG Zoom link](https://www.math.arizona.edu/~klin/rtg-zoom). We will also host a Slack channel for offline discussion. To be added to the Slack channel, please [click here](https://join.slack.com/t/data--dynamics/shared_invite/zt-1n961v4s5-xXbzNkD4Lvo6wAoA5X_Hlw). To be added to our email list, please contact one of the organizers.
 
 # Schedule
 
