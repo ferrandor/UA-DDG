@@ -17,6 +17,26 @@ Meetings will be held on Wednesdays from 1:00-2:00 pm, in room **MATH 501** and 
 
 # Schedule
 
+## February 1, 2023
+
+**Question Blitz**
+
+The Data and Dynamics Group will hold its next meeting on Wed. 2/1 @ 1pm in MATH 501. For this meeting we would like to hold an informal "Question Blitz" where everyone is invited to participate. This is an opportunity for everyone to share some brief background about the topic(s) they are interested in, as well as what questions they would like to answer but may not know how to address. This is also a good space to present some "half baked" ideas to an audience. If time permits, we will have a roundtable discussion following the blitz about any common themes that we may want to discuss further this term. 
+
+
+If you think you might participate, please [sign-up](https://docs.google.com/spreadsheets/d/1krjwyw24YpVYxZ6xsm4j1boaqeihLteOJ_w6ShHNoIM/edit?pli=1#gid=0) by next Tuesday 1/31 so we can get a general sense of how many talks we will have. Also see below for some general guidelines.
+
+
+We hope to see and hear from you all! 
+
+
+**Question Blitz Guidelines:**
+
+* Time - Strict 4 mins (3 mins for talk, 1 for questions)
+* Topics - Can be broad or narrow in scope, try to think about topics related to the general themes of data & dynamics.
+* Visual Aids - Optional. Max of 2 slides, if any. Chalkboard talks are also welcome! (Please bring your own device if you plan to present slides.) 
+
+
 ## January 18, 2023
 
 **Speaker**: [Jared McBride](https://appliedmath.arizona.edu/person/jared-mcbride)
