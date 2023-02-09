@@ -17,6 +17,16 @@ Meetings will be held on Wednesdays from 1:00-2:00 pm, in room **MATH 501** and 
 
 # Schedule
 
+## February 15, 2023
+
+**Journal Club**
+
+**Speaker**: Robert Ferrando
+
+Koch et al., "Structural Inference of Networked Dynamical Systems with Universal Differential Equations", 2022. 
+Download the paper [here](https://aps.arxiv.org/abs/2207.04962) or [here](https://aip.scitation.org/doi/full/10.1063/5.0109093).
+Notes/slides will be provided after the meeting.
+
 ## February 1, 2023
 
 **Question Blitz**
