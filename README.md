@@ -27,6 +27,8 @@ Koch et al., "Structural Inference of Networked Dynamical Systems with Universal
 Download the paper [here](https://aps.arxiv.org/abs/2207.04962) or [here](https://aip.scitation.org/doi/full/10.1063/5.0109093).
 Notes/slides will be provided after the meeting.
 
+Check this blog post by Chris Rackauckas out: [Direct Automatic Differentiation of (Differential Equation) Solvers vs Analytical Adjoints: Which is Better?](https://www.stochasticlifestyle.com/direct-automatic-differentiation-of-solvers-vs-analytical-adjoints-which-is-better/).
+
 ## February 1, 2023
 
 **Question Blitz**
