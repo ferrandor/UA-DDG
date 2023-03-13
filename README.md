@@ -17,6 +17,12 @@ Meetings will be held on Wednesdays from 1:00-2:00 pm, in room **MATH 501** and 
 
 # Schedule
 
+## March 15, 2023
+
+**Speakers:** Alexa Aucoin and Robert Ferrando
+
+Alexa Aucoin will give a review of Neural ODE as well as a high-level discussion on Graph Neural Networks (GNN) in the first half of the meeting. In the second half of the meeting, Robert Ferrando will lead a software demo of [Neuromancer](https://github.com/pnnl/neuromancer), a Pytorch-based package for solving parametric constrained optimization problems.
+
 ## February 15, 2023
 
 **Journal Club**
