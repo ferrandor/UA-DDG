@@ -17,6 +17,14 @@ Meetings will be held on Wednesdays from 1:00-2:00 pm, in room **MATH 501** and 
 
 # Schedule
 
+## March 29, 2023
+
+**Speaker:** [Ari Bormanis](https://appliedmath.arizona.edu/person/ari-bormanis)
+
+**Title:** TBA
+
+**Abstract:** TBA
+
 ## March 15, 2023
 
 **Speakers:** Alexa Aucoin and Robert Ferrando
