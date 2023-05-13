@@ -17,13 +17,32 @@ Meetings will be held on Wednesdays from 1:00-2:00 pm, in room **MATH 501** and 
 
 # Schedule
 
+## Looking ahead: 2023-24
+
+Check back soon.
+
+## May 9, 2023
+
+We had a year-end wrap-up coffee and discussion at Caffe Luce. We will be in touch soon above about our plans for next year!
+
+## April 19, 2023
+
+**Speaker:** [Michael Woodward](https://appliedmath.arizona.edu/person/michael-woodward)
+
+**Title:** Data-Driven Mori-Zwanzig: Theory and Applications to Boundary Layers
+
+**Abstract:** In this talk, we will give a brief overview of a recently developed data-driven Mori-Zwanzig (MZ)
+formulation and present applications to boundary layer flows. The MZ formalism provides a mathematically exact procedure for constructing non-Markovian reduced-order models of resolved variables (observables) from high-dimensional dynamical systems, where the effects due to the unresolved dynamics are captured in the memory kernel and orthogonal dynamics. The algorithm used in this work applies Mori’s linear projection operator and an SVD based compression as the selection of the resolved variables (equivalently, a low rank approximation of the two time covariance matrices). We show that this MZ decomposition not only identifies the same spatio-temporal structures found by Dynamic Mode Decomposition (DMD), but it can also be used to extract spatio-temporal structures of the hysteresis effects present in the memory kernels. We perform an analysis of these structures in the context of a laminar-turbulent boundary-layer transition flow over a flared cone at Mach 6, and show the dynamical relevance of the memory kernels. Additionally, by including these memory terms learned in this data-driven MZ approach, we show improvement in the prediction accuracy over DMD at the same level of truncation and at a similar computational cost. Furthermore, an analysis of the spatio-temporal structures of the MZ operators shows identifiable structures associated with the nonlinear generation of the so-called "hot" streaks on the surface of the flared cone, which have previously been observed in experiments and direct numerical simulations. We will conclude with a discussion of ongoing investigations and applications to boundary layer flows, where only sparse sensor measurements are given.  
+
 ## March 29, 2023
 
 **Speaker:** [Ari Bormanis](https://appliedmath.arizona.edu/person/ari-bormanis)
 
-**Title:** TBA
+**Title:** Encoding Hard Constraints into Physics Informed Neural Networks
 
-**Abstract:** TBA
+**Abstract:** Physics informed neural networks (PINNs) have been a great boon to those hoping to predict the behavior of systems constrained by physical phenomena via machine learning. PINNs usually function by embedding soft constraints into their cost function used for learning. Unfortunately, due to the soft nature of the constraints, this can result in PINNs making predictions that do not obey known physical laws. In particular, we focus on PINNs used for predicting magnetic fields and fluid velocity fields. These two cases are similar in that both magnetic fields and fluid velocity fields (for incompressible fluids) obey the zero divergence condition. We explain how the zero divergence condition can be embedded into the structure of a PINN as a hard constraint and the beneficial results of this. 
+
+**Papers:** The ideas in this talk come from the papers "Physics-constrained 3D Convolutional Neural Networks for Electrodynamics" by Alexander Scheinker and Reeju Pokharel (link: https://arxiv.org/abs/2301.13715), and "Embedding Hard Physical Constraints in Convolutional Neural Networks for 3D Turbulence" by Arvind T. Mohan, Nicholas Lubbers, Daniel Livescu, and our very own Michael Chertkov (link: https://openreview.net/forum?id=IaXBtMNFaa).
 
 ## March 15, 2023
 
