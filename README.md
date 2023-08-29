@@ -8,7 +8,8 @@ For the Fall 2023 semester, the seminar is co-organized by
 Aucoin](https://appliedmath.arizona.edu/person/alexa-aucoin),
 and [Robert
 Ferrando](https://appliedmath.arizona.edu/person/robert-ferrando).
-See [here](https://www.math.arizona.edu/~klin/ddg) for
+See [here](https://github.com/ferrandor/UA-DDG/blob/main/README.md) for an archive of
+Spring 2023 meetings, and [here](https://www.math.arizona.edu/~klin/ddg) for
 information on previous semesters.
 
 Meetings will be held on Thursdays from 11:30 am - 12:30 pm, in room **TBA** and over Zoom. To be added to our email list, please contact one of the organizers.
