@@ -8,7 +8,7 @@ For the Fall 2023 semester, the seminar is co-organized by
 Aucoin](https://appliedmath.arizona.edu/person/alexa-aucoin),
 and [Robert
 Ferrando](https://appliedmath.arizona.edu/person/robert-ferrando).
-See [here](https://github.com/ferrandor/UA-DDG/blob/main/README.md) for an archive of
+See [here](https://github.com/ferrandor/UA-DDG/blob/main/spring2023.md) for an archive of
 Spring 2023 meetings, and [here](https://www.math.arizona.edu/~klin/ddg) for
 information on previous semesters.
 
