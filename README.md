@@ -9,6 +9,7 @@ Aucoin](https://appliedmath.arizona.edu/person/alexa-aucoin),
 and [Robert
 Ferrando](https://appliedmath.arizona.edu/person/robert-ferrando).
 For previous semesters, see the following:
+* [Fall 2023](https://github.com/ferrandor/UA-DDG/blob/main/fall2023.md)
 * [Spring 2023](https://github.com/ferrandor/UA-DDG/blob/main/spring2023.md)
 * [before Spring 2023](https://www.math.arizona.edu/~klin/ddg) 
 
