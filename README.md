@@ -13,4 +13,4 @@ For previous semesters, see the following:
 * [Spring 2023](https://github.com/ferrandor/UA-DDG/blob/main/spring2023.md)
 * [before Spring 2023](https://www.math.arizona.edu/~klin/ddg) 
 
-Meetings will be held on **TBA** from **TBA** -- **TBA** in room **TBA** and over Zoom. To be added to our email list, please contact one of the organizers.
+Meetings will be held on **Mondays** from **2:30** -- **3:45 pm** in room **MATH 402** and over Zoom. To be added to our email list, please contact one of the organizers.
