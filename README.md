@@ -5,9 +5,8 @@ Welcome the Data and Dynamics Working Group at the University of Arizona, part o
 For the Spring 2024 semester, the seminar is co-organized by
 [Kevin Lin](https://www.math.arizona.edu/~klin/index.php),
 [Alexa
-Aucoin](https://appliedmath.arizona.edu/person/alexa-aucoin),
-and [Robert
-Ferrando](https://appliedmath.arizona.edu/person/robert-ferrando).
+Aucoin](https://appliedmath.arizona.edu/person/alexa-aucoin), [Robert
+Ferrando](https://appliedmath.arizona.edu/person/robert-ferrando), and [Ben Stilin](https://www.appliedmath.arizona.edu/person/benjamin-stilin).
 For previous semesters, see the following:
 * [Fall 2023](https://github.com/ferrandor/UA-DDG/blob/main/fall2023.md)
 * [Spring 2023](https://github.com/ferrandor/UA-DDG/blob/main/spring2023.md)
