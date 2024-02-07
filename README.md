@@ -13,3 +13,11 @@ For previous semesters, see the following:
 * [before Spring 2023](https://www.math.arizona.edu/~klin/ddg) 
 
 Meetings will be held on **Mondays** from **2:30** -- **3:45 pm** in room **MATH 402** and over Zoom. To be added to our email list, please contact one of the organizers.
+
+## February 12, 2024
+
+**Speaker:** Ziao Chen, University of Missouri
+
+**Title:** Dimensionality Reduction in Neuroscience
+
+**Abstract:** There has been rapid development and increasing use of technologies for recording from large numbers of neurons. It is important to study a population of recorded neurons beyond studying each neuron individually. Many recent studies have used dimensionality reduction to analyze the population activities that are not apparent at the level of individual neurons. I will discuss some dimensionality reduction methods commonly applied to population activity, starting with basic covariance methods such as principal component analysis (PCA) and factor analysis (FA). Then I will focus on a time series method called Gaussian process factor analysis (GPFA) which unifies the smoothing and dimensionality reduction operations in a common probabilistic framework and allows to apply on single-trial population activity. If time permits, I will briefly introduce other time series methods, such as latent linear/nonlinear dynamical systems.
