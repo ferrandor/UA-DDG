@@ -14,6 +14,14 @@ For previous semesters, see the following:
 
 Meetings will be held on **Mondays** from **2:30** -- **3:45 pm** in room **MATH 402** and over Zoom. To be added to our email list, please contact one of the organizers.
 
+## February 19, 2024
+
+**Speaker:** [Alexa Aucoin](https://appliedmath.arizona.edu/person/alexa-aucoin)
+
+**Topic:** Granger Causality
+
+**Abstract:**  I will give a talk on Granger Causality, a statistical test for determining "causal" relationships for time-series data. We will start with an introduction to the early definitions and applications of Granger, focusing on its assumptions and caveats. Afterwards, I will discuss recent improvements and extensions of Granger Causality using machine learning.
+
 ## February 12, 2024
 
 **Speaker:** Ziao Chen, University of Missouri
