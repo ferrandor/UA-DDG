@@ -14,6 +14,15 @@ For previous semesters, see the following:
 
 Meetings will be held on **Mondays** from **2:30** -- **3:45 pm** in room **MATH 402** and over Zoom. To be added to our email list, please contact one of the organizers.
 
+## March 18, 2024
+
+**Speaker:** [Andrew Arnold](https://appliedmath.arizona.edu/person/andrew-arnold)
+
+**Title:** Missing the messy mesh mishaps
+
+**Abstract:** In the first part of a series on the practical numerical solution of PDEs, I will present some insight on the questions of: a. What is a mesh? and b. How do we assess if a particular mesh is good for solving a problem?, largely based on the first chapter of "Delauney Mesh Generation" by Siu-Wing Cheng, et al. After this dose of theory, we'll get some hands-on experience with a tutorial on making and assessing a mesh using the open-source meshing software Gmsh. You can download the latest version at [https://gmsh.info/](https://gmsh.info/) in preparation!
+
+
 ## February 19, 2024
 
 **Speaker:** [Alexa Aucoin](https://appliedmath.arizona.edu/person/alexa-aucoin)
