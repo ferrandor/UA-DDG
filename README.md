@@ -14,6 +14,14 @@ For previous semesters, see the following:
 
 Meetings will be held on **Mondays** from **2:30** -- **3:45 pm** in room **MATH 402** and over Zoom. To be added to our email list, please contact one of the organizers.
 
+## April 1, 2024
+
+**Speakers:** [Addie Harrison](https://appliedmath.arizona.edu/person/addie-harrison) and [Rebekah Saucier](https://appliedmath.arizona.edu/person/rebekah-saucier)
+
+**Title:** Introduction to ANSYS Fluent
+
+**Abstract:** In this presentation, we will give an introduction to ANSYS, a computational fluid dynamics software. This tutorial will specifically go through the use of ANSYS fluent for computation of external flow around a rigid 3D structure. We will give a brief overview of ways to access and use ANSYS, setting up the geometry, meshing the structure in ANSYS, setting up the computation, creating report definitions (drag coefficient, drag force, etc.), and visualizing results.
+
 ## March 18, 2024
 
 **Speaker:** [Andrew Arnold](https://appliedmath.arizona.edu/person/andrew-arnold)
