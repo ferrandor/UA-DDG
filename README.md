@@ -14,6 +14,14 @@ For previous semesters, see the following:
 
 Meetings will be held on **Mondays** from **2:30** -- **3:45 pm** in room **MATH 402** and over Zoom. To be added to our email list, please contact one of the organizers.
 
+## April 8, 2024
+
+**Speakers:** [Christopher Koh](https://www.math.arizona.edu/people/cfckoh)
+
+**Title:** Actor Physicists: Physics Informed Reinforcement Learning for Swimming in Turbulent Environments
+
+**Abstract:** Turbulent diffusion separates particles placed initially close to each other. How much swimming efforts are needed to keep a particle sufficiently close to its passively advected partner? How to optimally balance the efforts with the goal? We answer the questions analyzing three different strategies, physics- uniformed, physics informed, and analytic strategies in the case of an active particle placed in a large scale turbulent flow and swimming towards its passive partner. 
+
 ## April 1, 2024
 
 **Speakers:** [Addie Harrison](https://appliedmath.arizona.edu/person/addie-harrison) and [Rebekah Saucier](https://appliedmath.arizona.edu/person/rebekah-saucier)
